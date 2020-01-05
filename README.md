@@ -1,5 +1,3 @@
-![alt text](https://i.imgur.com/agQOdVT.png)
-
  ECOCOIN is a business-oriented
 cryptocurrency directed towards
 entertainment, especially in video
